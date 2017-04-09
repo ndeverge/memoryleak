@@ -1,0 +1,1 @@
+job: target/universal/stage/bin/memoryleak -main com.teammood.memoryleak.StartJob
